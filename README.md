@@ -31,3 +31,35 @@ A **secure, fast, and educational** console-based banking application built with
 ---
 
 ## Project Structure
+
+├── Client.py           # User model
+├── Database.py         # MySQL connection & table setup
+├── Bank.py             # Banking operations
+├── Register.py         # Signup & Signin logic
+├── Main.py             # CLI menu
+└── passwords.db        # (not included)
+
+## Setup & Run
+
+### 1. Prerequisites
+pip install mysql-connector-python bcrypt
+
+### 2. Run
+python Main.py
+
+
+### Sample Flow
+welcome to my bank 
+ENTER 1. TO Register (SignUp) 
+ENTER 2. TO Login (SignIn) 
+1
+ENTER FIRST NAME: John
+ENTER LAST NAME: Doe
+Enter Age: 25
+Enter city: NYC
+Enter Mobile No: 9876543210
+SET PIN (5-8 digits): ******
+CONFIRM PIN: ******
+ACCOUNT CREATED SUCCESSFULLY
+USER NAME: JOHN DOE
+ACCOUNT NUMBER: 98765432101
