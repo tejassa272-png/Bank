@@ -46,7 +46,7 @@ pip install mysql-connector-python bcrypt
 
 ### 2. Run
 python Main.py
-# My Sql Root Password - Tejas?123
+### My Sql Root Password - Tejas?123
 
 ### Sample Flow
 welcome to my bank 
