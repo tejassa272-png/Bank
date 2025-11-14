@@ -41,12 +41,14 @@ A **secure, fast, and educational** console-based banking application built with
 
 ## Setup & Run
 
+## My Sql Root Password - Tejas?123
+
 ### 1. Prerequisites
 pip install mysql-connector-python bcrypt
 
 ### 2. Run
 python Main.py
-### My Sql Root Password - Tejas?123
+
 
 ### Sample Flow
 welcome to my bank 
