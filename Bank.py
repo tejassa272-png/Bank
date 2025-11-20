@@ -102,11 +102,4 @@ class bank():
                 
                 db.commit()
                 print(f"{amount} SUCCESSFULLY TRANSFERRED")
-                
-                
-                
-            
-            
         
-        
-    
