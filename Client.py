@@ -26,9 +26,3 @@ class Client():
                 1
             ))
         db.commit()
-
-            
-        
-        
-        
-        
