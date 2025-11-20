@@ -107,14 +107,3 @@ if Status:
         except ValueError:
             print("ENTER VALID INPUT")
             continue
-        
-        
-
-        
-        
-    
-    
-
-    
-    
-
